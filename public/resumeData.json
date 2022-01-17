@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name": "Keeno Chetty",
+    "occupation": "Graphics Designer by trade and Junior full stack Developer in training ",
+    "description": "  I love seeing ideas come to life  ",
+    "image": "profilepic.jpg",
+    "bio": "Hi there My name is Keeno Chetty i am a Graphic Designer using tech and applications to bring your ideas to life is exactly my passion from artwork needed to be printed to artwork going on a billboard i do it all and soon i will do it for your websites too ",
+    "contactmessage": "Get in touch with me if you would like more info",
+    "email": "keenochetty101@gmail.com",
+    "phone": "+27 83 713 2442",
+    "address": {
+      "street": "",
+      "city": "Johannesburg, South Africa",
+      "state": "",
+      "zip": ""
+    },
+    "website": "github",
+    "resumedownload": "https://github.com/Keenochetty/My-cv/raw/main/Keeno%20Chetty%20Resume%202021.pdf",
+    "social": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/keenzo_101/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/keeno.chetty.9/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/keeno-chetty-0089b21b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B81rd7Up8SkCx7jSbJDF7ow%3D%3D",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Keeno15301883",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Keenochetty",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "City Varsity",
+        "degree": "Graphics Design",
+        "graduated": "November 2017",
+        "description": "Completed Course"
+      }
+    ],
+    "work": [
+      {
+        "company": "Blue Storm Trading + Freelance ",
+        "title": "Designer",
+        "years": "December 2017 - Present",
+        "description": "Creating logos and artwork for customers looking to print or post images"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Graphics design",
+        "level": "90%"
+      },
+      {
+        "name": "Computer Skills",
+        "level": "94%"
+      },
+      {
+        "name": "Deckie working on yachts",
+        "level": "70%"
+      },
+      {
+        "name": "Car sales",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development in progress",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+          
+      {
+        "title": "Graphics design",
+        "category": "Logo",
+        "image": "logo.jpg",
+        "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/logo.jpg?raw=true"
+      },
+           
+      {
+        "title": "Graphics design",
+        "category": "Logo",
+        "image": "logo2.jpg",
+        "url": "https://raw.githubusercontent.com/Keenochetty/KeenoChetty-Resume-2021-/main/public/images/portfolio/logo2.jpg?token=AUT3YYXRSV3NS2Q2R46UYTLBPKUDI"
+      },
+      
+      
+            
+      {
+        "title": "Graphics design",
+        "category": "Hope design",
+        "image": "Graphics-design-port.jpg",
+        "url": "https://raw.githubusercontent.com/Keenochetty/KeenoChetty-Resume-2021-/main/public/images/portfolio/Graphics-design-port.jpg?token=AUT3YYWUPUMX7ER7BYFKC2LBPKUXC"
+      },
+      
+      {
+        "title": "Graphics design",
+        "category": "Mockups",
+        "image": "Mockups.jpg",
+        "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/Mockups.jpg?raw=true"
+      },
+      
+      {
+        "title": "Web Development",
+        "category": "Metaverse chat ",
+        "image": "Metaverse.PNG",
+        "url": "https://metaverse-app-wheat.vercel.app"
+      },
+      {
+        "title": "Web Development",
+        "category": "HTML,CSS,JS",
+        "image": "home-page-web.PNG",
+        "url": "https://fynite-motors-co-za.netlify.app/"
+      },
+      {
+        "title": "Web Development",
+        "category": "HTML,CSS",
+        "image": "corner-cafe.PNG",
+        "url": "https://keenochetty-thecornercafe.netlify.app/"
+      },
+      {
+        "title": "Web Development",
+        "category": "Play Me",
+        "image": "Tic-Tac-Toe.PNG",
+        "url": "https://keeno-chetty-tic-tac-toe.netlify.app/"
+      },
+      
+      {
+        "title": "Web Development",
+        "category": "Air BNB Web Page",
+        "image": "airbnb-home.PNG",
+        "url": "https://airbnb-clone-1-keeno-chetty.vercel.app"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Amazing work Keeno thank you",
+        "user": "CYD Team Stratagy"
+      },
+      {
+        "text": "Thanks for the work much apreciated ",
+        "user": "Blue Storm Trading "
+      },
+      {
+        "text": "Amazing picures thank you ",
+        "user": "Tanya "
+      },
+      {
+        "text": "Thanks for the rush order the shirts look amazing ",
+        "user": "Menlyn "
+      }
+    ]
+  }
+}
