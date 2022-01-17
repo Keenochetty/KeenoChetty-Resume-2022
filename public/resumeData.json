@@ -94,12 +94,18 @@
         "image": "logo.jpg",
         "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/logo.jpg?raw=true"
       },
+      {
+        "title": "Graphics design",
+        "category": "Mock up",
+        "image": "sweater-mock-up.jpg",
+        "url": "https://raw.githubusercontent.com/Keenochetty/Photos/main/GTR%20R33%20Skyline%20sweater%20Mock%20up.jpg?token=GHSAT0AAAAAABQLHYPYAVSDNAJFKVBW6EFYYPFYTFQ"
+      },
            
       {
         "title": "Graphics design",
-        "category": "Logo",
+        "category": "mock up",
         "image": "logo2.jpg",
-        "url": "https://raw.githubusercontent.com/Keenochetty/KeenoChetty-Resume-2021-/main/public/images/portfolio/logo2.jpg?token=AUT3YYXRSV3NS2Q2R46UYTLBPKUDI"
+        "url": ""
       },
       
       
@@ -108,15 +114,10 @@
         "title": "Graphics design",
         "category": "Hope design",
         "image": "Graphics-design-port.jpg",
-        "url": "https://raw.githubusercontent.com/Keenochetty/KeenoChetty-Resume-2021-/main/public/images/portfolio/Graphics-design-port.jpg?token=AUT3YYWUPUMX7ER7BYFKC2LBPKUXC"
+        "url": "https://github.com/Keenochetty/Photos/blob/main/diversity-hope-tattoo.jpg?raw=true"
       },
       
-      {
-        "title": "Graphics design",
-        "category": "Mockups",
-        "image": "Mockups.jpg",
-        "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/Mockups.jpg?raw=true"
-      },
+      
       
       {
         "title": "Web Development",
