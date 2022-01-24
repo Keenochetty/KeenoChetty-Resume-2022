@@ -88,23 +88,12 @@
   "portfolio": {
     "projects": [
           
-      {
-        "title": "Graphics design",
-        "category": "Logo",
-        "image": "logo.jpg",
-        "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/logo.jpg?raw=true"
-      },
-      {
-        "title": "Graphics design",
-        "category": "Mock up",
-        "image": "sweater-mock-up.jpg",
-        "url": "https://raw.githubusercontent.com/Keenochetty/Photos/main/GTR%20R33%20Skyline%20sweater%20Mock%20up.jpg?token=GHSAT0AAAAAABQLHYPYAVSDNAJFKVBW6EFYYPFYTFQ"
-      },
+      
            
       {
         "title": "Graphics design",
         "category": "mock up",
-        "image": "logo2.jpg",
+        "image": "home-bg.jpg",
         "url": ""
       },
       
@@ -116,7 +105,18 @@
         "image": "Graphics-design-port.jpg",
         "url": "https://github.com/Keenochetty/Photos/blob/main/diversity-hope-tattoo.jpg?raw=true"
       },
-      
+      {
+        "title": "Graphics design",
+        "category": "Logo",
+        "image": "fynite-mockup.jpg",
+        "url": "https://github.com/Keenochetty/KeenoChetty-Resume-2021-/blob/main/public/images/portfolio/logo.jpg?raw=true"
+      },
+      {
+        "title": "Graphics design",
+        "category": "Mock up",
+        "image": "sweater-mock-up.jpg",
+        "url": "https://raw.githubusercontent.com/Keenochetty/Photos/main/GTR%20R33%20Skyline%20sweater%20Mock%20up.jpg?token=GHSAT0AAAAAABQLHYPYAVSDNAJFKVBW6EFYYPFYTFQ"
+      },
       
       
       {
