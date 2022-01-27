@@ -86,19 +86,15 @@
     ]
   },
   "portfolio": {
-    "projects": [
-          
+    "projects": [     
       
-           
       {
         "title": "Graphics design",
         "category": "mock up",
         "image": "home-bg.jpg",
         "url": ""
       },
-      
-      
-            
+                 
       {
         "title": "Graphics design",
         "category": "Hope design",
@@ -117,8 +113,13 @@
         "image": "sweater-mock-up.jpg",
         "url": "https://raw.githubusercontent.com/Keenochetty/Photos/main/GTR%20R33%20Skyline%20sweater%20Mock%20up.jpg?token=GHSAT0AAAAAABQLHYPYAVSDNAJFKVBW6EFYYPFYTFQ"
       },
-      
-      
+      {
+        "title": "Web Development",
+        "category": "amazon app ",
+        "image": "amazon.PNG",
+        "url": "https://next-amazona-main.vercel.app"
+      },
+            
       {
         "title": "Web Development",
         "category": "Metaverse chat ",
@@ -137,6 +138,7 @@
         "image": "corner-cafe.PNG",
         "url": "https://keenochetty-thecornercafe.netlify.app/"
       },
+      
       {
         "title": "Web Development",
         "category": "Play Me",
@@ -150,6 +152,7 @@
         "image": "airbnb-home.PNG",
         "url": "https://airbnb-clone-1-keeno-chetty.vercel.app"
       }
+      
       
     ]
   },
