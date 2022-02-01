@@ -218,6 +218,12 @@
       {
         "title": "Web Development",
         "category": "HTML,CSS,JS",
+        "image": "The-store-next-door.PNG",
+        "url": "https://the-store-next-door.netlify.app"
+      },
+      {
+        "title": "Web Development",
+        "category": "HTML,CSS,JS",
         "image": "home-page-web.PNG",
         "url": "https://fynite-motors-co-za.netlify.app/"
       },
