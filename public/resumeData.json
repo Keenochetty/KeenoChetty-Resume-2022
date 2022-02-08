@@ -86,8 +86,64 @@
     ]
   },
   "portfolio": {
-    "projects": [     
+    "projects": [   
+      {
+        "title": "Web Development",
+        "category": "amazon app ",
+        "image": "amazon.PNG",
+        "url": "https://next-amazona-main.vercel.app"
+      },
+            
+      {
+        "title": "Web Development",
+        "category": "Metaverse chat ",
+        "image": "Metaverse.PNG",
+        "url": "https://metaverse-app-wheat.vercel.app"
+      },
+      {
+        "title": "Web Development",
+        "category": "E-Store",
+        "image": "The-store-next-door.PNG",
+        "url": "https://the-store-next-door.netlify.app"
+      },
+      {
+        "title": "Web Development",
+        "category": "HTML,CSS,JS",
+        "image": "home-page-web.PNG",
+        "url": "https://fynite-motors-co-za.netlify.app/"
+      },
+      {
+        "title": "Web Development",
+        "category": "HTML,CSS",
+        "image": "corner-cafe.PNG",
+        "url": "https://keenochetty-thecornercafe.netlify.app/"
+      },
       
+      {
+        "title": "Web Development",
+        "category": "Play Me",
+        "image": "Tic-Tac-Toe.PNG",
+        "url": "https://keeno-chetty-tic-tac-toe.netlify.app/"
+      },
+      
+      {
+        "title": "Web Development",
+        "category": "Air BNB Web Page",
+        "image": "airbnb-home.PNG",
+        "url": "https://airbnb-clone-1-keeno-chetty.vercel.app"
+      },  
+      {
+        "title": "Graphics design",
+        "category": "Logo",
+        "image": "fynite-mockup.jpg",
+        "url": "https://scontent.fjnb10-1.fna.fbcdn.net/v/t39.30808-6/272777510_459536142541634_7427445605572003747_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEwDcOqYti3dPryR6Oc7adNqsG-nO5FzWWqwb6c7kXNZdW_r4ZuBlZUGLXyOA5DxRYn3UMkxV8t8Xt01hr_iYwf&_nc_ohc=bK0mibjfiEwAX8dpWZq&tn=3vEOtwlQH58bbwEC&_nc_ht=scontent.fjnb10-1.fna&oh=00_AT8DiCaDYOvu64zIZYBRbLzxJpEbrsLUWAWV5vu20P1uNw&oe=61F896B6"
+      },
+      {
+        "title": "Graphics design",
+        "category": "Mock up",
+        "image": "sweater-mock-up.jpg",
+        "url": "https://scontent.fjnb10-1.fna.fbcdn.net/v/t39.30808-6/272736277_459535742541674_5704886164293864780_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeENmk4hzUXWGa4Q80V0y9ERpB0kKGZuemykHSQoZm56bMsGWWvttYSaZyImPkvXe9pEKK3ZgScC3E6mp2KgXpjs&_nc_ohc=GC4XEk0I1fQAX-E4_sW&tn=3vEOtwlQH58bbwEC&_nc_ht=scontent.fjnb10-1.fna&oh=00_AT8-l-PnFVpkLzweriOJv4x8w20H31yur9LwnZ-3eOtCMQ&oe=61F84275"
+      },
       {
         "title": "Graphics design",
         "category": "info page post",
@@ -189,64 +245,8 @@
         "category": "Hope design",
         "image": "Graphics-design-port.jpg",
         "url": "https://scontent.fjnb10-1.fna.fbcdn.net/v/t39.30808-6/272748227_459535475875034_5186499330771394601_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFRl3EmGxG9IF3c5k93g7D0hbru9xI0BF-Fuu73EjQEX8MHbv6BKJefdxB_FTrwjhMpbVoRN7KnfPpJgKMZHnu3&_nc_ohc=FeXk4T1-ZOQAX99b96O&tn=3vEOtwlQH58bbwEC&_nc_ht=scontent.fjnb10-1.fna&oh=00_AT_lfq6mXq-JKG6UDpJJr-fSp0l-_cCrVChJf2YVZuM4ZQ&oe=61F7C455"
-      },
-      {
-        "title": "Graphics design",
-        "category": "Logo",
-        "image": "fynite-mockup.jpg",
-        "url": "https://scontent.fjnb10-1.fna.fbcdn.net/v/t39.30808-6/272777510_459536142541634_7427445605572003747_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEwDcOqYti3dPryR6Oc7adNqsG-nO5FzWWqwb6c7kXNZdW_r4ZuBlZUGLXyOA5DxRYn3UMkxV8t8Xt01hr_iYwf&_nc_ohc=bK0mibjfiEwAX8dpWZq&tn=3vEOtwlQH58bbwEC&_nc_ht=scontent.fjnb10-1.fna&oh=00_AT8DiCaDYOvu64zIZYBRbLzxJpEbrsLUWAWV5vu20P1uNw&oe=61F896B6"
-      },
-      {
-        "title": "Graphics design",
-        "category": "Mock up",
-        "image": "sweater-mock-up.jpg",
-        "url": "https://scontent.fjnb10-1.fna.fbcdn.net/v/t39.30808-6/272736277_459535742541674_5704886164293864780_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeENmk4hzUXWGa4Q80V0y9ERpB0kKGZuemykHSQoZm56bMsGWWvttYSaZyImPkvXe9pEKK3ZgScC3E6mp2KgXpjs&_nc_ohc=GC4XEk0I1fQAX-E4_sW&tn=3vEOtwlQH58bbwEC&_nc_ht=scontent.fjnb10-1.fna&oh=00_AT8-l-PnFVpkLzweriOJv4x8w20H31yur9LwnZ-3eOtCMQ&oe=61F84275"
-      },
-      {
-        "title": "Web Development",
-        "category": "amazon app ",
-        "image": "amazon.PNG",
-        "url": "https://next-amazona-main.vercel.app"
-      },
-            
-      {
-        "title": "Web Development",
-        "category": "Metaverse chat ",
-        "image": "Metaverse.PNG",
-        "url": "https://metaverse-app-wheat.vercel.app"
-      },
-      {
-        "title": "Web Development",
-        "category": "HTML,CSS,JS",
-        "image": "The-store-next-door.PNG",
-        "url": "https://the-store-next-door.netlify.app"
-      },
-      {
-        "title": "Web Development",
-        "category": "HTML,CSS,JS",
-        "image": "home-page-web.PNG",
-        "url": "https://fynite-motors-co-za.netlify.app/"
-      },
-      {
-        "title": "Web Development",
-        "category": "HTML,CSS",
-        "image": "corner-cafe.PNG",
-        "url": "https://keenochetty-thecornercafe.netlify.app/"
-      },
-      
-      {
-        "title": "Web Development",
-        "category": "Play Me",
-        "image": "Tic-Tac-Toe.PNG",
-        "url": "https://keeno-chetty-tic-tac-toe.netlify.app/"
-      },
-      
-      {
-        "title": "Web Development",
-        "category": "Air BNB Web Page",
-        "image": "airbnb-home.PNG",
-        "url": "https://airbnb-clone-1-keeno-chetty.vercel.app"
       }
+      
       
       
     ]
